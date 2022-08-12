@@ -66,6 +66,9 @@ Amber: molecular dynamics software for DNA and proteins
 DeepChem: python package on deep learning for computational chemistry and biology
 TorchDrug: python package centered around deep learning platform for drug discovery
 
+### Image Analysis
+new section!
+
 ### General Biology
 Biopython: broadly applicable python package for all things computational biology, especially handling and parsing different bio-specific file formats.
 Bioconductor: broadly applicable R package, similar functional role as biopython.
