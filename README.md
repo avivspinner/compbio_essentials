@@ -39,6 +39,7 @@ Some disciplines have tools built for their specific field. We rounded up the mo
 [EVE](https://github.com/debbiemarkslab/EVE): open-source python tool that leverages variational autoencoders to predict pathogenicity of variation in proteins.
 [AlphaFold](https://alphafold.ebi.ac.uk/): open-source protein structure prediction server
 - Try folding GFP (sequence linked [here](https://www.uniprot.org/uniprot/P42212.fasta)) in their [collab notebook](https://colab.research.google.com/github/sokrypton/ColabFold/blob/main/AlphaFold2.ipynb)!
+
 [Rosetta Fold](): open-source protein structure prediction server
 
 ### CRISPR
