@@ -24,8 +24,8 @@ As a PhD student in computational biology, these are the basic development envir
 Regardless of specialty, there are several packages that are universally relevant. I will split these between python and R as well:
 
 ### Python
-- NumPy[https://numpy.org/], pandas, Matplotlib (and specifically matplotlib.pyplot), Seaborn: fundamental package for numerical computing, analysis, and visualization
-- scikit-learn: everything machine learning!
+- [NumPy](https://numpy.org/), [pandas](https://pandas.pydata.org/), [Matplotlib](https://matplotlib.org/) (and specifically matplotlib.pyplot), [Seaborn](https://seaborn.pydata.org/): fundamental package for numerical computing, analysis, and visualization
+- [scikit-learn](https://scikit-learn.org/stable/): everything machine learning!
 
 ### R
 - tidyverse: a powerful and well-documented set of packages for all general data manipulation and visualization. This includes: dplyr, ggplot2, tidyr, purrr, tibble, stringr, and forcats.
