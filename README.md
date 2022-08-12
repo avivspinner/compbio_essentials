@@ -1,4 +1,4 @@
-# compbio_essentials
+# Open Source Tools for Computational Biology
 
 This repository is paired with the [Open Source Tools in Computational Biology article](https://www.pillar.vc/playlist/article/open-source-tools-for-computational-biology/?utm_source=tldrnewsletter) that I wrote for Pillar VC. 
 The .yml file will contain all essential packages needed to hit the (computational biology) ground running! Enjoy!
@@ -23,7 +23,7 @@ As a PhD student in computational biology, these are the basic development envir
 - **Terminal** for Macs and **Command Prompt** for Windows
 - **Screen**: widely used terminal multiplexer that allows the user to view multiple sessions at a time.
 
-### The Essential Packages
+## The Essential Packages
 Regardless of specialty, there are several packages that are universally relevant. I will split these between python and R as well:
 
 ### Python
