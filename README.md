@@ -46,22 +46,32 @@ Some disciplines have tools built for their specific field. We rounded up the mo
 
 ### CRISPR
 [CRISPResso2](http://crispresso2.pinellolab.org/submission): analysis of genome editing outcomes from deep sequencing data with a fantastic [tutorial page](https://crispresso.pinellolab.partners.org/help).
+
 [mali-dual-crispr-pipeline](https://github.com/ucsd-ccbb/mali-dual-crispr-pipeline): code for the dual-CRISPR screen analysis pipeline developed to analyze results from the dual-CRISPR screening system set up by the lab of Dr. Prashant Mali. The software is developed by Amanda Birmingham and Roman Sasik of the Center for Computational Biology and Bioinformatics at the University of California, San Diego.
 
 ### Single Cell RNA-seq
 [scanpy](https://scanpy.readthedocs.io/en/stable/): Python-based toolkit for analyzing single cell transcriptomic data
+
 [seurat](https://satijalab.org/seurat/): R-based toolkit for analyzing single cell transcriptomic data
+
 [scVAE](https://github.com/scvae/scvae): Machine learning (Variational Autoencoder) to model single cell transcriptomics. They have really [helpful documentation here](https://scvae.readthedocs.io/en/stable/guide.html) that walks the user through how to use it (and you can skip the first step if you use the environment we already built!)
+
 [kallisto](https://pachterlab.github.io/kallisto/):  ultra-fast single cell RNA-seq data analysis tool that doesn’t require full alignments.
+
 [bustools](https://github.com/BUStools/bustools): tool for working with Barcode, UMI, and Set (BUS) files that can be used with kallisto.
 
 ### Genomics
-bedtools: ‘swiss-army knife’ of genomic data analysis
-samtools: general suite of programs for analyzing high-throughput sequencing data
-Anvi’o: software suite for a wide array of disciplines within genomics including metagenomics, metatranscriptomics, pangenomics, metapangenomics, phylogenomics, and microbial population genetics. They also have a large swathe of tutorials and resources!
-BLAST: basic alignment search tool that can be run through python or through their web interface.
-GATK: toolkit for identifying and discovering new single nucleotide polymorphisms (SNP) in DNA and RNAseq data.
-STAR: alignment tool specifically designed for for RNAseq data
+[bedtools](https://bedtools.readthedocs.io/en/latest/): ‘swiss-army knife’ of genomic data analysis
+
+[samtools](http://www.htslib.org/): general suite of programs for analyzing high-throughput sequencing data
+
+[Anvi’o](https://anvio.org/): software suite for a wide array of disciplines within genomics including metagenomics, metatranscriptomics, pangenomics, metapangenomics, phylogenomics, and microbial population genetics. They also have a large swathe of tutorials and resources!
+
+[BLAST](https://blast.ncbi.nlm.nih.gov/Blast.cgi): basic alignment search tool that can be run through python or through their web interface.
+
+[GATK](https://gatk.broadinstitute.org/hc/en-us): toolkit for identifying and discovering new single nucleotide polymorphisms (SNP) in DNA and RNAseq data.
+
+[STAR](https://hbctraining.github.io/Intro-to-rnaseq-hpc-O2/lessons/03_alignment.html): alignment tool specifically designed for for RNAseq data
 
 ### Computational Chemistry
 OpenMM: toolkit for molecular simulation
