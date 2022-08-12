@@ -11,14 +11,17 @@ The movement towards open source tools and knowledge for building biotech is imp
 As a PhD student in computational biology, these are the basic development environments that I’m working in almost every day:
 
 ### Python
-**Jupyter Notebooks/Jupyter Lab**: very common, can split python code into code chunks. Jupyter Lab is especially useful for cloud computing because directories can be viewed and it creates different tabs for multiple notebooks/files.
-**Google Collab Notebooks**: extremely easy to collaborate with others and supports python and R.
+
+- **Jupyter Notebooks/Jupyter Lab**: very common, can split python code into code chunks. Jupyter Lab is especially useful for cloud computing because directories can be viewed and it creates different tabs for multiple notebooks/files.
+
+- **Google Collab Notebooks**: extremely easy to collaborate with others and supports python and R.
+
 ### R
-**R Studio**: very easy-to-use development environment for programming in R
-**R Studio Cloud**: Like R studio, but all in the cloud.
+- **R Studio**: very easy-to-use development environment for programming in R
+- **R Studio Cloud**: Like R studio, but all in the cloud.
 ### Bash
-**Terminal** for Macs and **Command Prompt** for Windows
-**Screen**: widely used terminal multiplexer that allows the user to view multiple sessions at a time.
+- **Terminal** for Macs and **Command Prompt** for Windows
+- **Screen**: widely used terminal multiplexer that allows the user to view multiple sessions at a time.
 
 ### The Essential Packages
 Regardless of specialty, there are several packages that are universally relevant. I will split these between python and R as well:
