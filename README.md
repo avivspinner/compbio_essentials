@@ -24,14 +24,14 @@ As a PhD student in computational biology, these are the basic development envir
 Regardless of specialty, there are several packages that are universally relevant. I will split these between python and R as well:
 
 ### Python
-NumPy, pandas, Matplotlib (and specifically matplotlib.pyplot), Seaborn: fundamental package for numerical computing, analysis, and visualization
-scikit-learn: everything machine learning!
+- NumPy, pandas, Matplotlib (and specifically matplotlib.pyplot), Seaborn: fundamental package for numerical computing, analysis, and visualization
+- scikit-learn: everything machine learning!
 
 ### R
-tidyverse: a powerful and well-documented set of packages for all general data manipulation and visualization. This includes: dplyr, ggplot2, tidyr, purrr, tibble, stringr, and forcats.
-keras: everything deep learning!
+- tidyverse: a powerful and well-documented set of packages for all general data manipulation and visualization. This includes: dplyr, ggplot2, tidyr, purrr, tibble, stringr, and forcats.
+- keras: everything deep learning!
 
-Some disciplines have tools built for their specific field. We rounded up the most popular software packages in protein modeling, CRISPR, single cell RNA-seq, sequence alignments and computational chemistry. We created an environment (with a corresponding .yml file for easy activation! Simply download this file and create the environment with conda env create -f /path/to/compbio_essentials.yml. To activate the environment with conda activate compbio_essentials.) that contains all python packages listed below. Here is a tutorial on how to connect it to JupyterLab and get coding!
+Some disciplines have tools built for their specific field. We rounded up the most popular software packages in protein modeling, CRISPR, single cell RNA-seq, sequence alignments and computational chemistry. We created an environment (with a corresponding .yml file for easy activation! Simply download this file and create the environment with `conda env create -f /path/to/compbio_essentials.yml`. To activate the environment with `conda activate compbio_essentials`.) that contains all python packages listed below. Here is a tutorial on how to connect it to JupyterLab and get coding!
 
 ### Protein Modeling
 EV Couplings: open-source python package and web server for modeling proteins based on evolutionary couplings.
