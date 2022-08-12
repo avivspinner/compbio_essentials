@@ -74,19 +74,26 @@ Some disciplines have tools built for their specific field. We rounded up the mo
 [STAR](https://hbctraining.github.io/Intro-to-rnaseq-hpc-O2/lessons/03_alignment.html): alignment tool specifically designed for for RNAseq data
 
 ### Computational Chemistry
-OpenMM: toolkit for molecular simulation
-Amber: molecular dynamics software for DNA and proteins
-DeepChem: python package on deep learning for computational chemistry and biology
-TorchDrug: python package centered around deep learning platform for drug discovery
+[OpenMM](https://openmm.org/): toolkit for molecular simulation
+
+[Amber](https://ambermd.org/): molecular dynamics software for DNA and proteins
+
+[DeepChem](https://deepchem.io/): python package on deep learning for computational chemistry and biology
+
+[TorchDrug](https://torchdrug.ai/): python package centered around deep learning platform for drug discovery
 
 ### Image Analysis
 new section!
 
 ### General Biology
-Biopython: broadly applicable python package for all things computational biology, especially handling and parsing different bio-specific file formats.
-Bioconductor: broadly applicable R package, similar functional role as biopython.
-Snakemake: workflow management system to create a robust computational pipeline.
-drc: R package to easily generate dose response curves, especially useful for ELISAs.
-GrowthCurver:  R package that summarizes and creates visualizations of optical density-based growth curves
+[Biopython](https://biopython.org/): broadly applicable python package for all things computational biology, especially handling and parsing different bio-specific file formats.
+
+[Bioconductor](https://www.bioconductor.org/): broadly applicable R package, similar functional role as biopython.
+
+[Snakemake](https://snakemake.readthedocs.io/en/stable/): workflow management system to create a robust computational pipeline.
+
+[drc](https://cran.r-project.org/web/packages/drc/drc.pdf): R package to easily generate dose response curves, especially useful for ELISAs.
+
+[GrowthCurver](https://cran.r-project.org/web/packages/growthcurver/vignettes/Growthcurver-vignette.html):  R package that summarizes and creates visualizations of optical density-based growth curves
 
 We would love to get your feedback on which tools you like, especially in fields we didn’t cover. You can reach out to Han at spinner@pillar.vc or check out their twitter thread for suggestions from the community.
