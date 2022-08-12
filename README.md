@@ -28,29 +28,29 @@ Regardless of specialty, there are several packages that are universally relevan
 - [scikit-learn](https://scikit-learn.org/stable/): everything machine learning!
 
 ### R
-- tidyverse: a powerful and well-documented set of packages for all general data manipulation and visualization. This includes: dplyr, ggplot2, tidyr, purrr, tibble, stringr, and forcats.
-- keras: everything deep learning!
+- [tidyverse](https://www.tidyverse.org/): a powerful and well-documented set of packages for all general data manipulation and visualization. This includes: dplyr, ggplot2, tidyr, purrr, tibble, stringr, and forcats.
+- [keras](https://keras.io/): everything deep learning!
 
-Some disciplines have tools built for their specific field. We rounded up the most popular software packages in protein modeling, CRISPR, single cell RNA-seq, sequence alignments and computational chemistry. We created an environment (with a corresponding .yml file for easy activation! Simply download this file and create the environment with `conda env create -f /path/to/compbio_essentials.yml`. To activate the environment with `conda activate compbio_essentials`.) that contains all python packages listed below. Here is a tutorial on how to connect it to JupyterLab and get coding!
+Some disciplines have tools built for their specific field. We rounded up the most popular software packages in protein modeling, CRISPR, single cell RNA-seq, sequence alignments and computational chemistry. We created an environment (with a corresponding [.yml file](https://github.com/hanspinner/compbio_essentials) for easy activation! Simply download this file and create the environment with `conda env create -f /path/to/compbio_essentials.yml`. To activate the environment with `conda activate compbio_essentials`.) that contains all python packages listed below. Here is a [tutorial on how to connect it to JupyterLab](https://softwarejargon.com/jupyterlab-and-conda-environment-installation-and-setup/) and get coding!
 
 ### Protein Modeling
-EV Couplings: open-source python package and web server for modeling proteins based on evolutionary couplings.
-Try running EV Couplings on HIV capsid protein (or any protein of your choice) by entering the UniProt id “F5BS86_9HIV1” into the web server.
-EVE: open-source python tool that leverages variational autoencoders to predict pathogenicity of variation in proteins.
-AlphaFold: open-source protein structure prediction server
-Try folding GFP (sequence linked here) in their collab notebook!
-Rosetta Fold: open-source protein structure prediction server
+[EV Couplings](https://evcouplings.org/): open-source python package and web server for modeling proteins based on evolutionary couplings.
+- Try running EV Couplings on HIV capsid protein (or any protein of your choice) by entering the UniProt id “F5BS86_9HIV1” into the [web server](https://v2.evcouplings.org/).
+[EVE](https://github.com/debbiemarkslab/EVE): open-source python tool that leverages variational autoencoders to predict pathogenicity of variation in proteins.
+[AlphaFold](https://alphafold.ebi.ac.uk/): open-source protein structure prediction server
+- Try folding GFP (sequence linked [here](https://www.uniprot.org/uniprot/P42212.fasta)) in their [collab notebook](https://colab.research.google.com/github/sokrypton/ColabFold/blob/main/AlphaFold2.ipynb)!
+[Rosetta Fold](): open-source protein structure prediction server
 
 ### CRISPR
-CRISPResso2: analysis of genome editing outcomes from deep sequencing data with a fantastic tutorial page.
+[CRISPResso2: analysis of genome editing outcomes from deep sequencing data with a fantastic tutorial page.
 mali-dual-crispr-pipeline: code for the dual-CRISPR screen analysis pipeline developed to analyze results from the dual-CRISPR screening system set up by the lab of Dr. Prashant Mali. The software is developed by Amanda Birmingham and Roman Sasik of the Center for Computational Biology and Bioinformatics at the University of California, San Diego.
 
 ### Single Cell RNA-seq
-scanpy: Python-based toolkit for analyzing single cell transcriptomic data
-seurat: R-based toolkit for analyzing single cell transcriptomic data
-scVAE: Machine learning (Variational Autoencoder) to model single cell transcriptomics. They have really helpful documentation here that walks the user through how to use it (and you can skip the first step if you use the environment we already built!)
-kallisto:  ultra-fast single cell RNA-seq data analysis tool that doesn’t require full alignments.
-bustools: tool for working with Barcode, UMI, and Set (BUS) files that can be used with kallisto.
+[scanpy](): Python-based toolkit for analyzing single cell transcriptomic data
+[seurat](): R-based toolkit for analyzing single cell transcriptomic data
+[scVAE](): Machine learning (Variational Autoencoder) to model single cell transcriptomics. They have really helpful documentation here that walks the user through how to use it (and you can skip the first step if you use the environment we already built!)
+[kallisto]():  ultra-fast single cell RNA-seq data analysis tool that doesn’t require full alignments.
+[bustools](): tool for working with Barcode, UMI, and Set (BUS) files that can be used with kallisto.
 
 ### Genomics
 bedtools: ‘swiss-army knife’ of genomic data analysis
