@@ -45,7 +45,7 @@ Some disciplines have tools built for their specific field. We rounded up the mo
 [Rosetta Fold](): open-source protein structure prediction server
 
 ### CRISPR
-[CRISPResso2: analysis of genome editing outcomes from deep sequencing data with a fantastic tutorial page.
+[CRISPResso2](http://crispresso2.pinellolab.org/submission): analysis of genome editing outcomes from deep sequencing data with a fantastic tutorial page.
 mali-dual-crispr-pipeline: code for the dual-CRISPR screen analysis pipeline developed to analyze results from the dual-CRISPR screening system set up by the lab of Dr. Prashant Mali. The software is developed by Amanda Birmingham and Roman Sasik of the Center for Computational Biology and Bioinformatics at the University of California, San Diego.
 
 ### Single Cell RNA-seq
