@@ -1,10 +1,12 @@
-# Living Document - Open Source Tools for Computational Biology
+# Living Document Instructions
 
 This repository is paired with the [Open Source Tools in Computational Biology article](https://www.pillar.vc/playlist/article/open-source-tools-for-computational-biology/?utm_source=tldrnewsletter) that I wrote for Pillar VC. 
-The .yml file will contain all essential packages needed to hit the (computational biology) ground running! Enjoy!
+The .yml file will contain all essential packages needed to hit the (computational biology) ground running! 
 
+## Contributing
+Fork the repo, edit the README, and then make a PR.
 
-## Open Source Tools for Computational Biology
+# Open Source Tools for Computational Biology
 
 The movement towards open source tools and knowledge for building biotech is important for the next wave of biotech innovation. We rounded up free open source software that founders, computational biologists, and data scientists are using that could help you get started on building products.
 
