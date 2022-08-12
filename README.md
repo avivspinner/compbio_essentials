@@ -36,7 +36,9 @@ Some disciplines have tools built for their specific field. We rounded up the mo
 ### Protein Modeling
 [EV Couplings](https://evcouplings.org/): open-source python package and web server for modeling proteins based on evolutionary couplings.
 - Try running EV Couplings on HIV capsid protein (or any protein of your choice) by entering the UniProt id “F5BS86_9HIV1” into the [web server](https://v2.evcouplings.org/).
+
 [EVE](https://github.com/debbiemarkslab/EVE): open-source python tool that leverages variational autoencoders to predict pathogenicity of variation in proteins.
+
 [AlphaFold](https://alphafold.ebi.ac.uk/): open-source protein structure prediction server
 - Try folding GFP (sequence linked [here](https://www.uniprot.org/uniprot/P42212.fasta)) in their [collab notebook](https://colab.research.google.com/github/sokrypton/ColabFold/blob/main/AlphaFold2.ipynb)!
 
