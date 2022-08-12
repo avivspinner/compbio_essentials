@@ -24,7 +24,7 @@ As a PhD student in computational biology, these are the basic development envir
 Regardless of specialty, there are several packages that are universally relevant. I will split these between python and R as well:
 
 ### Python
-- NumPy, pandas, Matplotlib (and specifically matplotlib.pyplot), Seaborn: fundamental package for numerical computing, analysis, and visualization
+- NumPy[https://numpy.org/], pandas, Matplotlib (and specifically matplotlib.pyplot), Seaborn: fundamental package for numerical computing, analysis, and visualization
 - scikit-learn: everything machine learning!
 
 ### R
