@@ -66,6 +66,8 @@ Some disciplines have tools built for their specific field. We rounded up the mo
 [bustools](https://github.com/BUStools/bustools): tool for working with Barcode, UMI, and Set (BUS) files that can be used with kallisto.
 
 ### Genomics
+[hail](https://hail.is): provides accessible interfaces for exploring genomic data
+
 [bedtools](https://bedtools.readthedocs.io/en/latest/): ‘swiss-army knife’ of genomic data analysis
 
 [samtools](http://www.htslib.org/): general suite of programs for analyzing high-throughput sequencing data
@@ -77,6 +79,7 @@ Some disciplines have tools built for their specific field. We rounded up the mo
 [GATK](https://gatk.broadinstitute.org/hc/en-us): toolkit for identifying and discovering new single nucleotide polymorphisms (SNP) in DNA and RNAseq data.
 
 [STAR](https://hbctraining.github.io/Intro-to-rnaseq-hpc-O2/lessons/03_alignment.html): alignment tool specifically designed for for RNAseq data
+
 
 ### Image Analysis
 [ImajeJ](https://imagej.net/software/fiji/)
