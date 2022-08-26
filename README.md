@@ -66,7 +66,7 @@ Some disciplines have tools built for their specific field. We rounded up the mo
 [bustools](https://github.com/BUStools/bustools): tool for working with Barcode, UMI, and Set (BUS) files that can be used with kallisto.
 
 ### Genomics
-[hail](https://hail.is): provides accessible interfaces for exploring genomic data
+[Hail](https://hail.is): provides accessible interfaces for exploring genomic data
 
 [bedtools](https://bedtools.readthedocs.io/en/latest/): ‘swiss-army knife’ of genomic data analysis
 
